@@ -17,7 +17,7 @@ To contribute you can fork the repository to create your own copy.
 
 ## Citation
 If you use this project in your research or work, please cite as follows:
-Bababebole, J. (2025). drugdeath_py. https://github.com/jba087/drugdeath_py.
+- Bababebole, J. (2025). drugdeath_py. https://github.com/jba087/drugdeath_py.
 
 ## Files
 `EXM_drugdeath_sud.ipynb` – Jupyter notebook containing the data cleaning, analysis, and plots.
