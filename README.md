@@ -9,7 +9,7 @@ The focus is on trends in the 15–49 age group and comparisons between differen
 
 ## Authorship
 - [@jba087](https://github.com/jba087)
-Master's Student
+Jolanda Bababebole Master's Student
 
 ## Contribution
 Contributions are welcome from anyone, please contact me at jba087@uit.no
