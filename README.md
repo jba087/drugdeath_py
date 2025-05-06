@@ -19,5 +19,8 @@ To contribute you can fork the repository to create your own copy.
 If you use this project in your research or work, please cite as follows:
 - Bababebole, J. (2025). drugdeath_py. https://github.com/jba087/drugdeath_py.
 
+## Liscence 
+GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 ## Files
 `EXM_drugdeath_sud.ipynb` – Jupyter notebook containing the data cleaning, analysis, and plots.
